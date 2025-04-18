@@ -1,0 +1,11 @@
+{
+  "name": "Panasonic Aircon",
+  "version": "0.11",
+  "builds": {
+    "chipFamily": "ESP32",
+    "ota": {
+      "path": "https://raw.githubusercontent.com/RoadXY/panasonic_aircon_ota/main/panasonic-aircon.ota.bin",
+      "md5": "f1f657635000a76a8eb35034ff79d38b"
+    }
+  }
+}
