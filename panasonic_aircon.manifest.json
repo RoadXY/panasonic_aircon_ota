@@ -1,6 +1,6 @@
 {
   "name": "Panasonic Aircon",
-  "version": "0.11",
+  "version": "0.12",
   "builds": {
     "chipFamily": "ESP32",
     "ota": {
